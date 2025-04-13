@@ -234,7 +234,7 @@ Anyways... we quickly caught on that it was *probably* looking for the name of a
 
 From there, we narrowed down some climbs to check by looking at routes near Vanderbilt University ~~and looking at the author's Instagram~~.
 
-Adam did some ✨magic✨ and worked out that it was the Creature Feature route.  
+Adam did some ✨magic✨ (Google image searching & sifting through climbing forums) and worked out that it was the Creature Feature route.  
 ![Adam wow 2.0](docs/adam-wtf.png)
 
 From there, you have to use a legendary OSINT technique called adding extra whitespace at the end of the flag.  
