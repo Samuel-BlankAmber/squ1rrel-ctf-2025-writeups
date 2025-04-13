@@ -149,7 +149,8 @@ These brave soldiers who dedicated their time to transcribing these chunks were 
 ![Info for chunkers](docs/blankamber-info-for-chunkers.png)
 
 Each chunk was __methodically__ transcribed. Half-way through we unlocked a powerful technique which we coined the "CTRL F OCR Tactic". It was a method in which we could take a chunk that we knew was *mostly* right (i.e. one transcribed using OCR), and then used `CTRL F` to identify and correct any errors. Here is a demo of it:  
-[CTRL+F OCR Tactic](https://github.com/user-attachments/assets/2adbdcc9-eebb-46c9-8044-ab732f17bcad)
+
+https://github.com/user-attachments/assets/2adbdcc9-eebb-46c9-8044-ab732f17bcad
 
 Using `CTRL F` while manually transcribing the image highlighted the OCR'd text when it was incorrect, and would cause the highlight to vanish when there was an error in the OCR'd chunk. This was less prone to error than transcribing entirely manually.
 
