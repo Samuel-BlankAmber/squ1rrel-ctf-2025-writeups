@@ -247,6 +247,6 @@ From there, you have to use a legendary OSINT technique called adding extra whit
 
 Flag: `squ1rrel{Creature_Feature}`
 
-Geoguessr was simultaneously the worst and best CTF challegne I have ever played. It took 12 hours for Team Ireland to solve it, and multiple days in combined hours of effort across the team. Although I would never wish it on my worst enemy, it truly did bring us together as a team, and for that I am grateful.
+Geoguessr was simultaneously the worst and best CTF challenge I have ever played. It took 12 hours for Team Ireland to solve it, and multiple days in combined hours of effort across the team. Although I would never wish it on my worst enemy, it truly did bring us together as a team, and for that I am grateful.
 
 ~Fin
