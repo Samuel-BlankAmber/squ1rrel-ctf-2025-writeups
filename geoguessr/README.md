@@ -152,7 +152,7 @@ Each chunk was __methodically__ transcribed. Half-way through we unlocked a powe
 
 https://github.com/user-attachments/assets/2adbdcc9-eebb-46c9-8044-ab732f17bcad
 
-Using `CTRL F` while manually transcribing the image highlighted the OCR'd text when it was incorrect, and would cause the highlight to vanish when there was an error in the OCR'd chunk. This was less prone to error than transcribing entirely manually.
+Using `CTRL F` while manually transcribing the image highlighted the OCR'd text when it was correct, and would cause the highlight to vanish when there was an error in the OCR'd chunk. This was less prone to error than transcribing entirely manually.
 
 After all this checking, we were confident we would have the correct image. But, alas...
 ![Manual is also bad](docs/manual-is-also-bad.png)
