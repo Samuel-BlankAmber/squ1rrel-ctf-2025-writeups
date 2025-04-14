@@ -1,3 +1,5 @@
 # Squ1rrel CTF 2025 Writeups
 
-Just Geoguessr so far! :)
+[Geoguessr](geoguessr/README.md)
+
+[Chicken Treasure Hunt](chicken%20treasure%20hunt/README.md)
